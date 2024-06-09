@@ -1,0 +1,117 @@
+[{
+  "_id": "60c72b2f9b1e8a5a6b1e4c57",
+  "firstName": "Aragon",
+  "lastName": "Dathler",
+  "email": "aragon@gmail.com",
+  "password": "$2a$12$FX4KMRtOLhSLu1cHu7LYoODa8KVfOeIt9VI/PrACTQU.4LK3NdEQq",
+  "balance": 1000,
+  "paymentInfo": {
+    "cardNumber": "4111111111111111",
+    "expirationDate": "12/24",
+    "CVV": "123"
+  },
+  "billingAddress": {
+    "phoneNumber": "1234567890",
+    "country": "USA",
+    "state": "California",
+    "postalCode": "90001"
+  }
+},
+{
+  "_id": "60c72b319b1e8a5a6b1e4c58",
+  "firstName": "Haruka",
+  "lastName": "Chikamura Shinji",
+  "email": "haruka@gmail.com",
+  "password": "$2a$12$kMrORLp.2wqECaRjBh8ukOzvtfqsOhK6zAJgvOxQo1wA8PlVm1jCW",
+  "balance": 1500,
+  "paymentInfo": {
+    "cardNumber": "4222222222222222",
+    "expirationDate": "11/23",
+    "CVV": "456"
+  },
+  "billingAddress": {
+    "phoneNumber": "0987654321",
+    "country": "Japan",
+    "state": "Tokyo",
+    "postalCode": "100-0001"
+  }
+},
+{
+  "_id": "60c72b349b1e8a5a6b1e4c59",
+  "firstName": "Alice",
+  "lastName": "Smith",
+  "email": "alice@gmail.com",
+  "password": "$2a$12$bH0EVWHnMHC7fp48QEEIxuTP6Nn1VnU3F0ic8ES6MJ3d1A/aRAXoa",
+  "balance": 1000,
+  "paymentInfo": {
+    "cardNumber": "4333333333333333",
+    "expirationDate": "10/22",
+    "CVV": "789"
+  },
+  "billingAddress": {
+    "phoneNumber": "1122334455",
+    "country": "UK",
+    "state": "London",
+    "postalCode": "EC1A 1BB"
+  }
+},
+{
+  "_id": "665abab88e5a1714b4389c8d",
+  "firstName": "Bob",
+  "lastName": "Johnson",
+  "email": "bob@gmail.com",
+  "password": "$2a$12$Ss6GNlrYCZPNBAGy4Ijt2eAqIM.YsGS.XpS68lsL2Ar8ZvwCuyPC2",
+  "balance": 500,
+  "paymentInfo": {
+    "cardNumber": "4444444444444444",
+    "expirationDate": "01/25",
+    "CVV": "321"
+  },
+  "billingAddress": {
+    "phoneNumber": "2233445566",
+    "country": "Canada",
+    "state": "Ontario",
+    "postalCode": "M5H 2N2"
+  },
+  "__v": 0
+},
+{
+  "_id": "665abb178e5a1714b4389c93",
+  "firstName": "Anggi",
+  "lastName": "Permana",
+  "email": "anggi@gmail.com",
+  "password": "$2a$12$j6Da4ZYhRi6N3pJXP7iiuuOLi5rKbGalseqL9UfPloOS95s1clYJS",
+  "balance": 2000,
+  "paymentInfo": {
+    "cardNumber": "12121212121",
+    "expirationDate": "21212",
+    "CVV": "123"
+  },
+  "billingAddress": {
+    "phoneNumber": "0831827122",
+    "country": "ID",
+    "state": "Jawa Barat",
+    "postalCode": "E123 HAJ"
+  },
+  "__v": 0
+},
+{
+  "_id": "665b7bdf12b432bc715e3c88",
+  "firstName": "Agus",
+  "lastName": "Leo",
+  "email": "agus@gmail.com",
+  "password": "$2b$12$XUrfIoR/nDCzWldCFwYWF.ox0STk3/Sz304WCADcJXI5u7FoEuaWa",
+  "balance": 500,
+  "paymentInfo": {
+    "cardNumber": "0921672541624576",
+    "expirationDate": "11/23",
+    "CVV": "123"
+  },
+  "billingAddress": {
+    "phoneNumber": "08725372536",
+    "country": "ID",
+    "state": "Jawa Barat",
+    "postalCode": "111-1902"
+  },
+  "__v": 0
+}]

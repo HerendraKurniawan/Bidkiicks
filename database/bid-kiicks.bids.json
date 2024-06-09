@@ -1,0 +1,24 @@
+[{
+  "_id": "60c72b449b1e8a5a6b1e4c5d",
+  "amount": 700,
+  "product": "60c72b389b1e8a5a6b1e4c5a",
+  "bidder": "60c72b2f9b1e8a5a6b1e4c57",
+  "createdAt": "2023-05-01T14:48:00.000Z",
+  "updatedAt": "2023-05-01T14:48:00.000Z"
+},
+{
+  "_id": "60c72b489b1e8a5a6b1e4c5e",
+  "amount": 400,
+  "product": "60c72b3c9b1e8a5a6b1e4c5b",
+  "bidder": "60c72b319b1e8a5a6b1e4c58",
+  "createdAt": "2023-05-02T15:30:00.000Z",
+  "updatedAt": "2023-05-02T15:30:00.000Z"
+},
+{
+  "_id": "60c72b4c9b1e8a5a6b1e4c5f",
+  "amount": 1000,
+  "product": "60c72b409b1e8a5a6b1e4c5c",
+  "bidder": "60c72b349b1e8a5a6b1e4c59",
+  "createdAt": "2023-05-03T16:12:00.000Z",
+  "updatedAt": "2023-05-03T16:12:00.000Z"
+}]

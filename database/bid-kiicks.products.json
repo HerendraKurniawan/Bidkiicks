@@ -1,0 +1,444 @@
+[{
+  "_id": "60c72b389b1e8a5a6b1e4c5a",
+  "name": "Vintage Watch",
+  "description": "A classic vintage watch in excellent condition.",
+  "startingPrice": 500,
+  "buyoutPrice": 1500,
+  "highestBid": 700,
+  "highestBidder": "60c72b2f9b1e8a5a6b1e4c57",
+  "owner": "60c72b2f9b1e8a5a6b1e4c57",
+  "imageUrl": "/uploads/vintage_watch.jpg",
+  "auctionEndTime": "2024-05-31T14:00:00.000Z",
+  "brand": "Omega",
+  "views": 849,
+  "bids": [
+    {
+      "amount": 600,
+      "bidder": "60c72b319b1e8a5a6b1e4c58",
+      "time": "2024-05-30T10:00:00.000Z"
+    },
+    {
+      "amount": 700,
+      "bidder": "60c72b2f9b1e8a5a6b1e4c57",
+      "time": "2024-05-30T12:00:00.000Z"
+    }
+  ],
+  "season": "Winter 2023",
+  "color": "Silver",
+  "releaseDate": "2023-01-15",
+  "retailPrice": 1800,
+  "condition": "Excellent",
+  "isSold": true
+},
+{
+  "_id": "60c72b3c9b1e8a5a6b1e4c5b",
+  "name": "Antique Vase",
+  "description": "A beautiful antique vase from the 18th century.",
+  "startingPrice": 300,
+  "buyoutPrice": 1200,
+  "highestBid": 400,
+  "highestBidder": "60c72b319b1e8a5a6b1e4c58",
+  "owner": "60c72b349b1e8a5a6b1e4c59",
+  "imageUrl": "/uploads/antique_vase.jpg",
+  "auctionEndTime": "2024-05-31T15:00:00.000Z",
+  "brand": "Royal Doulton",
+  "views": 185,
+  "bids": [
+    {
+      "amount": 350,
+      "bidder": "60c72b349b1e8a5a6b1e4c59",
+      "time": "2024-05-30T10:00:00.000Z"
+    },
+    {
+      "amount": 400,
+      "bidder": "60c72b319b1e8a5a6b1e4c58",
+      "time": "2024-05-30T12:00:00.000Z"
+    }
+  ],
+  "season": "Spring 2023",
+  "color": "Blue",
+  "releaseDate": "2023-03-10",
+  "retailPrice": 1500,
+  "condition": "Good",
+  "isSold": false
+},
+{
+  "_id": "60c72b409b1e8a5a6b1e4c5c",
+  "name": "Modern Art Painting",
+  "description": "A vibrant modern art painting by a renowned artist.",
+  "startingPrice": 800,
+  "buyoutPrice": 2500,
+  "highestBid": 1000,
+  "highestBidder": "60c72b349b1e8a5a6b1e4c59",
+  "owner": "60c72b319b1e8a5a6b1e4c58",
+  "imageUrl": "/uploads/modern_art_painting.jpg",
+  "auctionEndTime": "2024-05-31T16:00:00.000Z",
+  "brand": "Banksy",
+  "views": 170,
+  "bids": [
+    {
+      "amount": 900,
+      "bidder": "60c72b349b1e8a5a6b1e4c59",
+      "time": "2024-05-30T10:00:00.000Z"
+    },
+    {
+      "amount": 1000,
+      "bidder": "60c72b349b1e8a5a6b1e4c59",
+      "time": "2024-05-30T12:00:00.000Z"
+    }
+  ],
+  "season": "Summer 2024",
+  "color": "Multicolor",
+  "releaseDate": "2024-06-01",
+  "retailPrice": 3000,
+  "condition": "New",
+  "isSold": true
+},
+{
+  "_id": "60c72b449b1e8a5a6b1e4c5d",
+  "name": "Luxury Handbag",
+  "description": "A designer luxury handbag with original packaging.",
+  "startingPrice": 1000,
+  "buyoutPrice": 5000,
+  "highestBid": 1200,
+  "highestBidder": "60c72b2f9b1e8a5a6b1e4c57",
+  "owner": "60c72b319b1e8a5a6b1e4c58",
+  "imageUrl": "/uploads/luxury_handbag.jpg",
+  "auctionEndTime": "2024-06-01T12:00:00.000Z",
+  "brand": "Louis Vuitton",
+  "views": 235,
+  "bids": [
+    {
+      "amount": 1100,
+      "bidder": "60c72b2f9b1e8a5a6b1e4c57",
+      "time": "2024-05-30T10:00:00.000Z"
+    },
+    {
+      "amount": 1200,
+      "bidder": "60c72b2f9b1e8a5a6b1e4c57",
+      "time": "2024-05-30T12:00:00.000Z"
+    }
+  ],
+  "season": "Spring 2024",
+  "color": "Black",
+  "releaseDate": "2024-04-01",
+  "retailPrice": 4500,
+  "condition": "New",
+  "isSold": true
+},
+{
+  "_id": "60c72b469b1e8a5a6b1e4c5e",
+  "name": "Gaming Laptop",
+  "description": "High-end gaming laptop with the latest graphics card.",
+  "startingPrice": 1500,
+  "buyoutPrice": 3500,
+  "highestBid": 2000,
+  "highestBidder": "60c72b349b1e8a5a6b1e4c59",
+  "owner": "60c72b2f9b1e8a5a6b1e4c57",
+  "imageUrl": "/uploads/gaming_laptop.jpg",
+  "auctionEndTime": "2024-06-01T13:00:00.000Z",
+  "brand": "Alienware",
+  "views": 198,
+  "bids": [
+    {
+      "amount": 1800,
+      "bidder": "60c72b349b1e8a5a6b1e4c59",
+      "time": "2024-05-30T10:00:00.000Z"
+    },
+    {
+      "amount": 2000,
+      "bidder": "60c72b349b1e8a5a6b1e4c59",
+      "time": "2024-05-30T12:00:00.000Z"
+    }
+  ],
+  "season": "Fall 2023",
+  "color": "Black",
+  "releaseDate": "2023-11-15",
+  "retailPrice": 3200,
+  "condition": "New",
+  "isSold": false
+},
+{
+  "_id": "60c72b489b1e8a5a6b1e4c5f",
+  "name": "Mountain Bike",
+  "description": "Durable mountain bike suitable for rough terrains.",
+  "startingPrice": 500,
+  "buyoutPrice": 2000,
+  "highestBid": 800,
+  "highestBidder": "60c72b319b1e8a5a6b1e4c58",
+  "owner": "60c72b349b1e8a5a6b1e4c59",
+  "imageUrl": "/uploads/mountain_bike.jpg",
+  "auctionEndTime": "2024-06-01T14:00:00.000Z",
+  "brand": "Giant",
+  "views": 150,
+  "bids": [
+    {
+      "amount": 700,
+      "bidder": "60c72b319b1e8a5a6b1e4c58",
+      "time": "2024-05-30T10:00:00.000Z"
+    },
+    {
+      "amount": 800,
+      "bidder": "60c72b319b1e8a5a6b1e4c58",
+      "time": "2024-05-30T12:00:00.000Z"
+    }
+  ],
+  "season": "Summer 2023",
+  "color": "Red",
+  "releaseDate": "2023-06-01",
+  "retailPrice": 1800,
+  "condition": "Used",
+  "isSold": false
+},
+{
+  "_id": "60c72b4a9b1e8a5a6b1e4c60",
+  "name": "Smartphone",
+  "description": "Latest model smartphone with all accessories.",
+  "startingPrice": 700,
+  "buyoutPrice": 1500,
+  "highestBid": 1500,
+  "highestBidder": {
+    "$oid": "665abab88e5a1714b4389c8d"
+  },
+  "owner": "60c72b319b1e8a5a6b1e4c58",
+  "imageUrl": "/uploads/smartphone.jpg",
+  "auctionEndTime": "2024-06-05T15:00:00.000Z",
+  "brand": "Apple",
+  "views": 319,
+  "bids": [
+    {
+      "amount": 800,
+      "bidder": "60c72b2f9b1e8a5a6b1e4c57",
+      "time": "2024-05-30T10:00:00.000Z"
+    },
+    {
+      "amount": 900,
+      "bidder": "60c72b2f9b1e8a5a6b1e4c57",
+      "time": "2024-05-30T12:00:00.000Z"
+    },
+    {
+      "amount": 1000,
+      "bidder": {
+        "$oid": "60c72b2f9b1e8a5a6b1e4c57"
+      },
+      "time": {
+        "$date": "2024-06-01T16:01:59.335Z"
+      },
+      "_id": {
+        "$oid": "665b45f702ec38105bd560cf"
+      }
+    },
+    {
+      "amount": 1100,
+      "bidder": {
+        "$oid": "665abb178e5a1714b4389c93"
+      },
+      "time": {
+        "$date": "2024-06-01T16:20:06.383Z"
+      },
+      "_id": {
+        "$oid": "665b4a3602ec38105bd5629e"
+      }
+    },
+    {
+      "amount": 1200,
+      "bidder": {
+        "$oid": "665abb178e5a1714b4389c93"
+      },
+      "time": {
+        "$date": "2024-06-01T16:21:48.868Z"
+      },
+      "_id": {
+        "$oid": "665b4a9c02ec38105bd5630f"
+      }
+    },
+    {
+      "amount": 1250,
+      "bidder": {
+        "$oid": "60c72b319b1e8a5a6b1e4c58"
+      },
+      "time": {
+        "$date": "2024-06-01T16:24:51.219Z"
+      },
+      "_id": {
+        "$oid": "665b4b5302ec38105bd563ae"
+      }
+    }
+  ],
+  "season": "Fall 2023",
+  "color": "Space Gray",
+  "releaseDate": "2023-09-21",
+  "retailPrice": 1400,
+  "condition": "New",
+  "isSold": true,
+  "__v": 4
+},
+{
+  "_id": "665b7a4d12b432bc715e3b85",
+  "name": "Smart TV",
+  "description": "A high-definition smart TV with internet connectivity and streaming capabilities.",
+  "startingPrice": 800,
+  "buyoutPrice": 2000,
+  "highestBid": 2000,
+  "highestBidder": {
+    "$oid": "60c72b2f9b1e8a5a6b1e4c57"
+  },
+  "owner": {
+    "$oid": "60c72b2f9b1e8a5a6b1e4c57"
+  },
+  "imageUrl": "/uploads/1717271117314.jpg",
+  "auctionEndTime": {
+    "$date": "2024-06-02T19:45:17.316Z"
+  },
+  "brand": "Samsung",
+  "views": 20,
+  "bids": [
+    {
+      "amount": 1000,
+      "bidder": {
+        "$oid": "665b7bdf12b432bc715e3c88"
+      },
+      "time": {
+        "$date": "2024-06-01T19:53:19.611Z"
+      },
+      "_id": {
+        "$oid": "665b7c2f12b432bc715e3d88"
+      }
+    },
+    {
+      "amount": 1100,
+      "bidder": {
+        "$oid": "60c72b2f9b1e8a5a6b1e4c57"
+      },
+      "time": {
+        "$date": "2024-06-01T19:54:05.145Z"
+      },
+      "_id": {
+        "$oid": "665b7c5d12b432bc715e3e1f"
+      }
+    }
+  ],
+  "season": "Summer 2023",
+  "color": "Black",
+  "releaseDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "retailPrice": 2500,
+  "condition": "New",
+  "isSold": true,
+  "__v": 2
+},
+{
+  "_id": "665b7d2c12b432bc715e3ed1",
+  "name": "Shoes",
+  "description": "My special sport shoes",
+  "startingPrice": 100,
+  "buyoutPrice": 500,
+  "highestBid": 500,
+  "highestBidder": {
+    "$oid": "665b7bdf12b432bc715e3c88"
+  },
+  "owner": {
+    "$oid": "60c72b2f9b1e8a5a6b1e4c57"
+  },
+  "imageUrl": "/uploads/1717271852173.jpg",
+  "auctionEndTime": {
+    "$date": "2024-06-02T19:57:32.176Z"
+  },
+  "brand": "Nike",
+  "views": 8,
+  "bids": [
+    {
+      "amount": 200,
+      "bidder": {
+        "$oid": "665b7bdf12b432bc715e3c88"
+      },
+      "time": {
+        "$date": "2024-06-01T19:58:18.962Z"
+      },
+      "_id": {
+        "$oid": "665b7d5a12b432bc715e3f64"
+      }
+    }
+  ],
+  "season": "Summer 2023",
+  "color": "White",
+  "releaseDate": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "retailPrice": 449,
+  "condition": "Used",
+  "isSold": true,
+  "__v": 1
+},
+{
+  "_id": "665b7e5112b432bc715e3fdb",
+  "name": "Nintendo",
+  "description": "Old nintendo",
+  "startingPrice": 100,
+  "buyoutPrice": 300,
+  "highestBid": 300,
+  "highestBidder": {
+    "$oid": "665b7bdf12b432bc715e3c88"
+  },
+  "owner": {
+    "$oid": "665b7bdf12b432bc715e3c88"
+  },
+  "imageUrl": "/uploads/1717272145179.jpg",
+  "auctionEndTime": {
+    "$date": "2024-06-02T20:02:25.180Z"
+  },
+  "brand": "Nintendo",
+  "views": 14,
+  "bids": [
+    {
+      "amount": 300,
+      "bidder": {
+        "$oid": "665b7bdf12b432bc715e3c88"
+      },
+      "time": {
+        "$date": "2024-06-01T20:08:56.309Z"
+      },
+      "_id": {
+        "$oid": "665b7fd812b432bc715e40c1"
+      }
+    }
+  ],
+  "season": "Summer 2023",
+  "color": "White",
+  "releaseDate": {
+    "$date": "2022-02-24T00:00:00.000Z"
+  },
+  "retailPrice": 500,
+  "condition": "used",
+  "isSold": false,
+  "__v": 1
+},
+{
+  "_id": "665bfc37066b4b2f83f5b2e6",
+  "name": "Play Station",
+  "description": "Play Station 2",
+  "startingPrice": 300,
+  "buyoutPrice": 1000,
+  "highestBid": 0,
+  "highestBidder": null,
+  "owner": {
+    "$oid": "60c72b2f9b1e8a5a6b1e4c57"
+  },
+  "imageUrl": "/uploads/1717304375463.jpg",
+  "auctionEndTime": {
+    "$date": "2024-06-03T04:59:35.472Z"
+  },
+  "brand": "Play Station",
+  "views": 2,
+  "bids": [],
+  "season": "Summer 2022",
+  "color": "Black",
+  "releaseDate": {
+    "$date": "2022-05-16T00:00:00.000Z"
+  },
+  "retailPrice": 2000,
+  "condition": "Used",
+  "isSold": false,
+  "__v": 0
+}]
